@@ -8,12 +8,12 @@ This P2P project builds a system with an index server and multiple peers for eas
 
 ## Main Features
 
-Registration: a peer can register their local content(s) to the index server
+**Registration**: a peer can register their local content(s) to the index server
 
-Download: another peer can download registered content(s) to its local directory
+**Download**: another peer can download registered content(s) to its local directory
 
-Listing of registered content: a peer can view all currently registered content(s)
+**List registered contents**: a peer can view all currently registered content(s)
 
-Content deregistration: a peer can de-register their content(s) from the index server
+**Content deregistration**: a peer can de-register their content(s) from the index server
 
-Quit: a peer can de-register all their contents and close the connection
+**Quit**: a peer can de-register all their contents and close the connection
